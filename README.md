@@ -1,1 +1,3 @@
 # EFT-Generator
+
+The goal of this program is to automatically generate all operators of an EFT up to a specified mass dimension. Current code concerns implementation in the simplest case of a scalar field theory with phi -> -phi symmetry, in order to test implementation of integration by parts and equations of motion without distraction of added complexities brought by multiple fermi and gauge fields. The case of the scalar field will provide a framework for generalization to more complicated case of SM fields. The next more complicated case of an Abelian gauge fields coupled to a single Fermi field is then examined in the folder QED (in progress). 
