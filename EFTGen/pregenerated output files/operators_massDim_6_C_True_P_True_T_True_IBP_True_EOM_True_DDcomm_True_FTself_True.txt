@@ -1,0 +1,209 @@
+
+
+CONSTITUENT FIELDS: 
+{'S': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0), (0, 0)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['S'], ['S']]
+LORENTZ CONTRACTIONS: 
+{}
+
+
+CONSTITUENT FIELDS: 
+{'V': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0), (0, 0)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['V'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'T': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0), (0, 0)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['T'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(0, 1): 2}
+
+
+CONSTITUENT FIELDS: 
+{'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0), (0, 0)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['Vp'], ['Vp']]
+LORENTZ CONTRACTIONS: 
+{(0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'Sp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0), (0, 0)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['Sp'], ['Sp']]
+LORENTZ CONTRACTIONS: 
+{}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 2}
+DERIVATIVE ASSIGNMENT: 
+((1, 1),)
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F']]
+LORENTZ CONTRACTIONS: 
+{(1, 3): 2, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 2}
+DERIVATIVE ASSIGNMENT: 
+((1, 1),)
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F']]
+LORENTZ CONTRACTIONS: 
+{(1, 3): 1, (1, 2): 1, (0, 3): 1}
+
+
+
+
+####################################### OPERATORS REMOVED IN BASIS REDUCTION #####################################
+
+
+DERIVATIVE ASSIGNMENTS REMOVED BASED ON C:
+
+{'S': 1, 'T': 1}
+[[(0, 0)], [(0, 0)]]
+
+{'V': 1, 'Vp': 1}
+[[(0, 0)], [(0, 0)]]
+
+{'T': 1, 'Sp': 1}
+[[(0, 0)], [(0, 0)]]
+
+{'D': 1, 'F': 1, 'V': 1}
+[[0], [(0, 1)]]
+
+{'D': 1, 'F': 1, 'Vp': 1}
+[[1], [(0, 0)]]
+
+{'F': 3}
+[[0, 0, 0]]
+
+{'D': 3, 'Vp': 1}
+[[(0, 3)]]
+[[(1, 2)]]
+
+{'D': 4, 'F': 1}
+[[4]]
+
+
+DERIVATIVE ASSIGNMENTS REMOVED BASED ON P:
+
+{'S': 1, 'Sp': 1}
+[[(0, 0)], [(0, 0)]]
+
+{'V': 1, 'Vp': 1}
+[[(0, 0)], [(0, 0)]]
+
+{'T': 1, 'Sp': 1}
+[[(0, 0)], [(0, 0)]]
+
+{'D': 1, 'F': 1, 'Vp': 1}
+[[1], [(0, 0)]]
+[[0], [(0, 1)]]
+
+{'D': 3, 'Vp': 1}
+[[(0, 3)]]
+[[(1, 2)]]
+
+
+DERIVATIVE ASSIGNMENTS REMOVED BASED ON T:
+
+{'S': 1, 'T': 1}
+[[(0, 0)], [(0, 0)]]
+
+{'S': 1, 'Sp': 1}
+[[(0, 0)], [(0, 0)]]
+
+{'D': 1, 'F': 1, 'V': 1}
+[[0], [(0, 1)]]
+
+{'D': 1, 'F': 1, 'Vp': 1}
+[[0], [(0, 1)]]
+
+{'F': 3}
+[[0, 0, 0]]
+
+{'D': 4, 'F': 1}
+[[4]]
+
+
+DERIVATIVE ASSIGNMENTS REMOVED BASED ON IBP:
+
+{'D': 1, 'F': 1, 'V': 1}
+[[1], [(0, 0)]]
+
+{'D': 1, 'F': 1, 'Vp': 1}
+[[1], [(0, 0)]]
+
+{'D': 3, 'V': 1}
+[[(0, 3)]]
+
+{'D': 3, 'Vp': 1}
+[[(0, 3)]]
+
+{'D': 2, 'F': 2}
+[[2, 0]]
+
+{'D': 4, 'F': 1}
+[[4]]
+
+
+FULL LORENTZ INDEX CONTRACTIONS REMOVED BASED ON EOM:
+
+{'D': 3, 'V': 1}
+(((1, 2),),)
+Lorentz index grouping: [['D', 'V', 'DD']]
+{(2, 2): 1, (0, 1): 1}
+
+{'D': 3, 'V': 1}
+(((1, 2),),)
+Lorentz index grouping: [['D', 'V', 'DD']]
+{(1, 2): 1, (0, 2): 1}
+
+{'D': 2, 'F': 2}
+((1, 1),)
+Lorentz index grouping: [['D', 'F'], ['D', 'F']]
+{(3, 3): 1, (1, 2): 1, (0, 1): 1}
+
+{'D': 2, 'F': 2}
+((1, 1),)
+Lorentz index grouping: [['D', 'F'], ['D', 'F']]
+{(2, 3): 1, (1, 3): 1, (0, 1): 1}
+
+
+FULL LORENTZ INDEX CONTRACTIONS REMOVED BASED ON DD_comm:
+
+
+FULL LORENTZ INDEX CONTRACTIONS REMOVED BASED ON FT_selfcontracted:
+
+{'T': 2}
+(((0, 0), (0, 0)),)
+Lorentz index grouping: [['T'], ['T']]
+{(1, 1): 1, (0, 0): 1}
+
+{'D': 2, 'F': 2}
+((1, 1),)
+Lorentz index grouping: [['D', 'F'], ['D', 'F']]
+{(3, 3): 1, (1, 2): 1, (0, 1): 1}
+
+{'D': 2, 'F': 2}
+((1, 1),)
+Lorentz index grouping: [['D', 'F'], ['D', 'F']]
+{(3, 3): 1, (1, 1): 1, (0, 2): 1}

@@ -1,0 +1,2210 @@
+
+
+CONSTITUENT FIELDS: 
+{'F': 1, 'S': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0), (0, 0)), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['S'], ['S'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(0, 3): 2}
+
+
+CONSTITUENT FIELDS: 
+{'F': 1, 'V': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0), (0, 0)), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V'], ['V'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (0, 3): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'F': 1, 'V': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0), (0, 0)), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V'], ['V'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(1, 2): 1, (0, 3): 2}
+
+
+CONSTITUENT FIELDS: 
+{'F': 1, 'V': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0),), ((0, 0),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V'], ['Vp'], ['Sp']]
+LORENTZ CONTRACTIONS: 
+{(0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'F': 1, 'T': 3}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0), (0, 0), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['T'], ['T'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 2, (0, 1): 2}
+
+
+CONSTITUENT FIELDS: 
+{'F': 1, 'T': 3}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0), (0, 0), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['T'], ['T'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (1, 3): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'F': 1, 'T': 1, 'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0),), ((0, 0), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['T'], ['Vp'], ['Vp']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (0, 1): 2}
+
+
+CONSTITUENT FIELDS: 
+{'F': 1, 'T': 1, 'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0),), ((0, 0), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['T'], ['Vp'], ['Vp']]
+LORENTZ CONTRACTIONS: 
+{(1, 3): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'F': 1, 'T': 1, 'Sp': 2}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0),), ((0, 0), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['T'], ['Sp'], ['Sp']]
+LORENTZ CONTRACTIONS: 
+{(0, 1): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 3}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1), (0, 0), (0, 0)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['S'], ['S']]
+LORENTZ CONTRACTIONS: 
+{(0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 3}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1), (0, 1), (0, 0)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'D'], ['S', 'D'], ['S']]
+LORENTZ CONTRACTIONS: 
+{(1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'V': 2}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1),), ((0, 0), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['V'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'V': 2}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1),), ((0, 0), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['V'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'V': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0),), ((1, 1), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S'], ['D', 'V', 'D'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'V': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0),), ((0, 1), (0, 1)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S'], ['V', 'D'], ['V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'V': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0),), ((0, 1), (0, 1)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S'], ['V', 'D'], ['V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (1, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'V': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1),), ((0, 1), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'D'], ['V', 'D'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (1, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'V': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1),), ((0, 1), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'D'], ['V', 'D'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'T': 2}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1),), ((0, 0), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['T'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 2, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'T': 2}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1),), ((0, 0), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['T'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (2, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'T': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0),), ((1, 1), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S'], ['D', 'T', 'D'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 2, (1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'T': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0),), ((0, 1), (0, 1)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S'], ['T', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'T': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0),), ((0, 1), (0, 1)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S'], ['T', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (1, 4): 1, (1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'T': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1),), ((0, 1), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'D'], ['T', 'D'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (2, 4): 1, (1, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'T': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1),), ((0, 1), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'D'], ['T', 'D'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 2, (1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1),), ((0, 0), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['Vp'], ['Vp']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1),), ((0, 0), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['Vp'], ['Vp']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0),), ((1, 1), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S'], ['D', 'Vp', 'D'], ['Vp']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0),), ((0, 1), (0, 1)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S'], ['Vp', 'D'], ['Vp', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0),), ((0, 1), (0, 1)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S'], ['Vp', 'D'], ['Vp', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (1, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1),), ((0, 1), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'D'], ['Vp', 'D'], ['Vp']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (1, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1),), ((0, 1), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'D'], ['Vp', 'D'], ['Vp']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'Sp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1),), ((0, 0), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['Sp'], ['Sp']]
+LORENTZ CONTRACTIONS: 
+{(0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'Sp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0),), ((1, 1), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S'], ['D', 'Sp', 'D'], ['Sp']]
+LORENTZ CONTRACTIONS: 
+{(1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'Sp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 0),), ((0, 1), (0, 1)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S'], ['Sp', 'D'], ['Sp', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 1, 'Sp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1),), ((0, 1), (0, 0)))
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'D'], ['Sp', 'D'], ['Sp']]
+LORENTZ CONTRACTIONS: 
+{(1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 1, 'F': 2, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0), ((0, 1),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['S', 'D'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (0, 1): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 1, 'F': 2, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0), ((0, 1),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['S', 'D'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(1, 4): 1, (0, 3): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 1, 'F': 2, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0), ((0, 0),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['S'], ['V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(1, 4): 1, (0, 3): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'F': 4, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0, 0, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['F'], ['F'], ['S']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 2, (0, 1): 2}
+
+
+CONSTITUENT FIELDS: 
+{'F': 4, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0, 0, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['F'], ['F'], ['S']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (1, 3): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((0, 2),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['S', 'DD'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(1, 4): 1, (1, 3): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((1, 1),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'S', 'D'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(1, 5): 1, (1, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((1, 1),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'S', 'D'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(1, 5): 1, (1, 2): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((1, 1),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'S', 'D'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(1, 4): 1, (1, 2): 1, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((0, 0),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['S'], ['V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(1, 4): 1, (1, 3): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((0, 0),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['S'], ['D', 'V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(1, 5): 1, (1, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((0, 0),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['S'], ['D', 'V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(1, 5): 1, (1, 3): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((0, 0),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['S'], ['D', 'V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(1, 4): 1, (1, 3): 1, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((0, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['S', 'D'], ['V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(1, 5): 1, (1, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((0, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['S', 'D'], ['V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(1, 5): 1, (1, 3): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((0, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['S', 'D'], ['V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(1, 4): 1, (1, 3): 1, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 2),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'DD'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (2, 4): 1, (0, 3): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 2),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'DD'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 3): 1, (2, 4): 1, (0, 4): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 2),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'DD'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (1, 4): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 2),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'DD'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (1, 3): 1, (0, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 2),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'DD'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 3): 1, (1, 4): 1, (0, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 2),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'DD'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (1, 3): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (1, 2): 1, (0, 3): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 4): 1, (0, 3): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 4): 1, (0, 4): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (2, 5): 1, (0, 4): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (2, 4): 1, (0, 5): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (1, 4): 1, (0, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (1, 5): 1, (0, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (1, 4): 1, (0, 5): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (1, 4): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 5): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 4): 1, (0, 5): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (1, 3): 1, (0, 4): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'V', 'D'], ['T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 1, (0, 5): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (2, 3): 1, (0, 3): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (1, 3): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 4): 1, (0, 3): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (1, 4): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 4): 1, (0, 4): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (1, 4): 1, (0, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (1, 4): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 5): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 4): 1, (0, 5): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (1, 3): 1, (0, 4): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (1, 5): 1, (0, 4): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 1, (0, 5): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['V', 'D'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (1, 4): 1, (0, 5): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 2),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'Vp', 'DD'], ['Sp']]
+LORENTZ CONTRACTIONS: 
+{(3, 3): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 2),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'Vp', 'DD'], ['Sp']]
+LORENTZ CONTRACTIONS: 
+{(1, 3): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['Vp'], ['D', 'Sp', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['Vp'], ['D', 'Sp', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (0, 4): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['Vp'], ['D', 'Sp', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(1, 4): 1, (0, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'Vp', 'D'], ['Sp', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'Vp', 'D'], ['Sp', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (0, 3): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'Vp', 'D'], ['Sp', 'D']]
+LORENTZ CONTRACTIONS: 
+{(1, 5): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((1, 1),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['D', 'Vp', 'D'], ['Sp', 'D']]
+LORENTZ CONTRACTIONS: 
+{(1, 3): 1, (0, 5): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['Vp', 'D'], ['Sp', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['Vp', 'D'], ['Sp', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (0, 4): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['Vp', 'D'], ['Sp', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(1, 4): 1, (0, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['Vp', 'D'], ['D', 'Sp', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['Vp', 'D'], ['D', 'Sp', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (0, 3): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['Vp', 'D'], ['D', 'Sp', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (0, 5): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['Vp', 'D'], ['D', 'Sp', 'D']]
+LORENTZ CONTRACTIONS: 
+{(1, 5): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'Vp': 1, 'Sp': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 1),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['Vp', 'D'], ['D', 'Sp', 'D']]
+LORENTZ CONTRACTIONS: 
+{(1, 3): 1, (0, 5): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0, 0), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['F'], ['S', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (1, 3): 1, (1, 2): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0, 0), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['F'], ['S', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (1, 3): 2, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0, 0), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['F'], ['S', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (1, 5): 1, (1, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0, 0), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['F'], ['S', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (1, 3): 1, (1, 2): 1, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(4, 5): 2, (1, 3): 2, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(4, 5): 1, (3, 5): 1, (1, 4): 1, (1, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 2, (1, 4): 2, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (3, 4): 1, (1, 5): 1, (1, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(4, 5): 2, (1, 3): 1, (1, 2): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(4, 5): 1, (3, 5): 1, (1, 4): 1, (1, 2): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(4, 5): 1, (2, 5): 1, (1, 4): 1, (1, 3): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(4, 5): 1, (2, 4): 1, (1, 5): 1, (1, 3): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 5): 1, (1, 4): 2, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 4): 1, (1, 5): 1, (1, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (2, 5): 1, (1, 5): 1, (1, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (2, 4): 1, (1, 5): 2, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(4, 5): 1, (2, 5): 1, (1, 3): 2, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 5): 1, (1, 4): 1, (1, 3): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 4): 1, (1, 5): 1, (1, 3): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (2, 5): 1, (1, 5): 1, (1, 3): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1, 0), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['F'], ['T']]
+LORENTZ CONTRACTIONS: 
+{(3, 4): 1, (2, 5): 1, (1, 4): 1, (1, 3): 1, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0, 0), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['F'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 4): 2, (0, 1): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0, 0), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['F'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 4): 1, (1, 4): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0, 0), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['F'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (2, 4): 1, (1, 4): 1, (0, 3): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0, 0), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['F'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 2, (1, 5): 1, (0, 3): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0, 0), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['F'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (2, 3): 1, (1, 4): 1, (0, 4): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'F': 3, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0, 0), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['F'], ['D', 'T', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (2, 3): 1, (1, 5): 1, (0, 4): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((2, 3),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'S', 'DDD'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (2, 2): 1, (0, 0): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((2, 3),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'S', 'DDD'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (0, 2): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((2, 3),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'S', 'DDD'], ['V']]
+LORENTZ CONTRACTIONS: 
+{(2, 2): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((2, 2),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'S', 'DD'], ['V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (2, 3): 1, (0, 0): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((2, 2),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'S', 'DD'], ['V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((2, 2),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'S', 'DD'], ['V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 3): 1, (0, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((2, 2),), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'S', 'DD'], ['V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 2): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1),), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'D'], ['DD', 'V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (2, 2): 1, (1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1),), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'D'], ['DD', 'V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 2, (1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 2),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'DD'], ['V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (2, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 2),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'DD'], ['V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (2, 2): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 2),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'DD'], ['V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 2, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 2),), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'DD'], ['V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (2, 3): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 2),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'DD'], ['D', 'V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 2),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'DD'], ['D', 'V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (2, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 2),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'DD'], ['D', 'V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 2): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 2),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'DD'], ['D', 'V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (2, 3): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 2),), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'DD'], ['D', 'V', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (2, 3): 1, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((0, 2),), ((0, 3),))
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'DD'], ['V', 'DDD']]
+LORENTZ CONTRACTIONS: 
+{(3, 3): 1, (1, 3): 1, (1, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((0, 2),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'DD'], ['D', 'V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (1, 3): 1, (1, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((0, 2),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'DD'], ['D', 'V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 4): 1, (1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['D', 'V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(5, 5): 1, (2, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['D', 'V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(5, 5): 1, (2, 3): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['D', 'V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 5): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 5, 'S': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1),), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['D', 'V', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 4): 1, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((2, 2), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'F'], ['S']]
+LORENTZ CONTRACTIONS: 
+{(2, 2): 1, (1, 3): 2, (0, 0): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((2, 2), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'F'], ['S']]
+LORENTZ CONTRACTIONS: 
+{(1, 3): 2, (0, 2): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((2, 2), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'F'], ['S']]
+LORENTZ CONTRACTIONS: 
+{(1, 3): 1, (1, 2): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['DD', 'S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (2, 2): 1, (0, 1): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['DD', 'S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 2, (0, 1): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['DD', 'S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (1, 2): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['DD', 'S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 4): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['DD', 'S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 2): 1, (1, 4): 1, (0, 4): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['DD', 'S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(1, 4): 1, (1, 2): 1, (0, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((2, 0), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['F'], ['S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (1, 2): 2, (0, 0): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((2, 0), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['F'], ['S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 4): 1, (1, 2): 1, (0, 0): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((2, 0), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['F'], ['S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(1, 4): 1, (1, 2): 1, (0, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((2, 0), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['F'], ['S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(1, 2): 2, (0, 4): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(5, 5): 1, (1, 3): 2, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (1, 5): 1, (1, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(5, 5): 1, (1, 3): 1, (1, 2): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (1, 5): 1, (1, 2): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (1, 5): 1, (1, 3): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['S', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (1, 3): 2, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['D', 'S', 'D']]
+LORENTZ CONTRACTIONS: 
+{(4, 6): 1, (1, 3): 2, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['D', 'S', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 6): 1, (1, 4): 1, (1, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['D', 'S', 'D']]
+LORENTZ CONTRACTIONS: 
+{(4, 6): 1, (1, 3): 1, (1, 2): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['D', 'S', 'D']]
+LORENTZ CONTRACTIONS: 
+{(3, 6): 1, (1, 4): 1, (1, 2): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['D', 'S', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 6): 1, (1, 4): 1, (1, 3): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['D', 'S', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 6): 1, (1, 3): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 1), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'F'], ['D', 'S', 'D']]
+LORENTZ CONTRACTIONS: 
+{(2, 6): 1, (1, 3): 2, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(5, 5): 1, (2, 4): 1, (1, 4): 1, (1, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(5, 5): 1, (2, 3): 1, (1, 4): 2, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 5): 1, (1, 4): 2, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 4): 1, (1, 5): 1, (1, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(5, 5): 1, (2, 4): 1, (1, 4): 1, (1, 2): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (2, 4): 1, (1, 5): 1, (1, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(5, 5): 1, (2, 4): 1, (1, 3): 1, (1, 2): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(5, 5): 1, (2, 3): 1, (1, 4): 1, (1, 2): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 5): 1, (1, 4): 1, (1, 2): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 4): 1, (1, 5): 1, (1, 2): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (2, 4): 1, (1, 5): 1, (1, 3): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (2, 3): 1, (1, 5): 1, (1, 4): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(3, 5): 1, (2, 4): 1, (1, 4): 1, (1, 2): 1, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (2, 4): 1, (1, 4): 1, (1, 3): 1, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 2, (1, 5): 1, (1, 3): 1, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 5): 1, (2, 3): 1, (1, 4): 2, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((1, 0), ((1, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['F'], ['D', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (2, 3): 1, (1, 5): 1, (1, 4): 1, (0, 5): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((2, 3),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['DD', 'S', 'DDD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (1, 4): 1, (1, 2): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((2, 3),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['DD', 'S', 'DDD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 4): 1, (1, 2): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((3, 3),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['DDD', 'T', 'DDD']]
+LORENTZ CONTRACTIONS: 
+{(3, 3): 1, (1, 3): 1, (1, 1): 1, (0, 2): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((3, 3),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['DDD', 'T', 'DDD']]
+LORENTZ CONTRACTIONS: 
+{(1, 3): 3, (0, 2): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((1, 3),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['D', 'T', 'DDD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (2, 4): 1, (1, 3): 2, (0, 0): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((1, 3),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['D', 'T', 'DDD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (1, 4): 1, (1, 3): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((1, 3),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['D', 'T', 'DDD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (1, 3): 2, (0, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((1, 3),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['D', 'T', 'DDD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (1, 3): 1, (1, 2): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((1, 3),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['D', 'T', 'DDD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 4): 1, (1, 3): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((1, 3),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['D', 'T', 'DDD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 2, (0, 4): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (2, 2): 1, (1, 3): 2, (0, 0): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 2, (1, 3): 2, (0, 0): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (1, 3): 2, (0, 2): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(4, 4): 1, (1, 3): 1, (1, 2): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 4): 1, (1, 3): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 2, (0, 4): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 4): 1, (1, 3): 1, (1, 2): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 2): 1, (1, 4): 1, (1, 3): 1, (0, 4): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 6, 'F': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((2,), ((2, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'T', 'DD']]
+LORENTZ CONTRACTIONS: 
+{(2, 2): 1, (1, 3): 2, (0, 4): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 8, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+(((4, 4),),)
+GROUPING OF LORENTZ OBJECTS: 
+[['DDDD', 'S', 'DDDD']]
+LORENTZ CONTRACTIONS: 
+{(2, 2): 2, (0, 0): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 8, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+(((4, 4),),)
+GROUPING OF LORENTZ OBJECTS: 
+[['DDDD', 'S', 'DDDD']]
+LORENTZ CONTRACTIONS: 
+{(2, 2): 1, (0, 2): 2, (0, 0): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 8, 'S': 1}
+DERIVATIVE ASSIGNMENT: 
+(((4, 4),),)
+GROUPING OF LORENTZ OBJECTS: 
+[['DDDD', 'S', 'DDDD']]
+LORENTZ CONTRACTIONS: 
+{(0, 2): 4}

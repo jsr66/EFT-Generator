@@ -1,0 +1,783 @@
+
+
+CONSTITUENT FIELDS: 
+{'F': 1, 'S': 1, 'T': 1}
+DERIVATIVE ASSIGNMENT: 
+((0,), ((0, 0),), ((0, 0),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['S'], ['T']]
+LORENTZ INDEX CONTRACTIONS: 
+{(0, 2): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 2}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1), (0, 0)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'S', 'D'], ['S']]
+LORENTZ INDEX CONTRACTIONS: 
+{(0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'S': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1), (0, 1)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['S', 'D'], ['S', 'D']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'V': 2}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1), (0, 0)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'V', 'D'], ['V']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'V': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1), (0, 1)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['V', 'D'], ['V', 'D']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'V': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1), (0, 1)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['V', 'D'], ['V', 'D']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 2): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'T': 2}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1), (0, 0)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'T', 'D'], ['T']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 2, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'T': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1), (0, 1)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['T', 'D'], ['T', 'D']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 1, (0, 2): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'T': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1), (0, 1)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['T', 'D'], ['T', 'D']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 2): 1, (0, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1), (0, 0)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'Vp', 'D'], ['Vp']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1), (0, 1)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['Vp', 'D'], ['Vp', 'D']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'Vp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1), (0, 1)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['Vp', 'D'], ['Vp', 'D']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 2): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'Sp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((1, 1), (0, 0)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'Sp', 'D'], ['Sp']]
+LORENTZ INDEX CONTRACTIONS: 
+{(0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 2, 'Sp': 2}
+DERIVATIVE ASSIGNMENT: 
+(((0, 1), (0, 1)),)
+GROUPING OF LORENTZ OBJECTS: 
+[['Sp', 'D'], ['Sp', 'D']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 1, 'F': 2, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((0, 0), ((0, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['V', 'D']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'F': 4}
+DERIVATIVE ASSIGNMENT: 
+((0, 0, 0, 0),)
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['F'], ['F']]
+LORENTZ INDEX CONTRACTIONS: 
+{(2, 3): 2, (0, 1): 2}
+
+
+CONSTITUENT FIELDS: 
+{'F': 4}
+DERIVATIVE ASSIGNMENT: 
+((0, 0, 0, 0),)
+GROUPING OF LORENTZ OBJECTS: 
+[['F'], ['F'], ['F'], ['F']]
+LORENTZ INDEX CONTRACTIONS: 
+{(2, 3): 1, (1, 3): 1, (0, 2): 1, (0, 1): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((0, 2),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['V', 'DD']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 1, (1, 2): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'V', 'D']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 4): 1, (1, 3): 1, (0, 2): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'V', 'D']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 4): 1, (1, 2): 1, (0, 3): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 3, 'F': 1, 'V': 1}
+DERIVATIVE ASSIGNMENT: 
+((1,), ((1, 1),))
+GROUPING OF LORENTZ OBJECTS: 
+[['D', 'F'], ['D', 'V', 'D']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 1, (1, 2): 1, (0, 4): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2}
+DERIVATIVE ASSIGNMENT: 
+((2, 2),)
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'F']]
+LORENTZ INDEX CONTRACTIONS: 
+{(2, 2): 1, (1, 3): 2, (0, 0): 1}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2}
+DERIVATIVE ASSIGNMENT: 
+((2, 2),)
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'F']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 2, (0, 2): 2}
+
+
+CONSTITUENT FIELDS: 
+{'D': 4, 'F': 2}
+DERIVATIVE ASSIGNMENT: 
+((2, 2),)
+GROUPING OF LORENTZ OBJECTS: 
+[['DD', 'F'], ['DD', 'F']]
+LORENTZ INDEX CONTRACTIONS: 
+{(1, 3): 1, (1, 2): 1, (0, 3): 1, (0, 2): 1}
+
+
+
+
+####################################### OPERATORS REMOVED IN BASIS REDUCTION #####################################
+
+
+DERIVATIVE ASSIGNMENTS REMOVED BASED ON C:
+
+{'F': 1, 'S': 2}
+[[0], [(0, 0), (0, 0)]]
+
+{'F': 1, 'S': 1, 'Sp': 1}
+[[0], [(0, 0)], [(0, 0)]]
+
+{'F': 1, 'V': 2}
+[[0], [(0, 0), (0, 0)]]
+
+{'F': 1, 'T': 2}
+[[0], [(0, 0), (0, 0)]]
+
+{'F': 1, 'Vp': 2}
+[[0], [(0, 0), (0, 0)]]
+
+{'F': 1, 'Sp': 2}
+[[0], [(0, 0), (0, 0)]]
+
+{'D': 2, 'S': 1, 'T': 1}
+[[(0, 2)], [(0, 0)]]
+[[(1, 1)], [(0, 0)]]
+[[(0, 0)], [(0, 2)]]
+[[(0, 0)], [(1, 1)]]
+[[(0, 1)], [(0, 1)]]
+
+{'D': 2, 'V': 1, 'Vp': 1}
+[[(0, 2)], [(0, 0)]]
+[[(1, 1)], [(0, 0)]]
+[[(0, 0)], [(0, 2)]]
+[[(0, 0)], [(1, 1)]]
+[[(0, 1)], [(0, 1)]]
+
+{'D': 2, 'T': 1, 'Sp': 1}
+[[(0, 2)], [(0, 0)]]
+[[(1, 1)], [(0, 0)]]
+[[(0, 0)], [(0, 2)]]
+[[(0, 0)], [(1, 1)]]
+[[(0, 1)], [(0, 1)]]
+
+{'D': 1, 'F': 2, 'V': 1}
+[[1, 0], [(0, 0)]]
+
+{'D': 1, 'F': 2, 'Vp': 1}
+[[0, 0], [(0, 1)]]
+
+{'D': 3, 'F': 1, 'V': 1}
+[[0], [(0, 3)]]
+[[0], [(1, 2)]]
+[[2], [(0, 1)]]
+
+{'D': 3, 'F': 1, 'Vp': 1}
+[[3], [(0, 0)]]
+[[1], [(0, 2)]]
+[[1], [(1, 1)]]
+
+{'D': 2, 'F': 3}
+[[2, 0, 0]]
+[[1, 1, 0]]
+
+{'D': 5, 'Vp': 1}
+[[(0, 5)]]
+[[(1, 4)]]
+[[(2, 3)]]
+
+{'D': 6, 'F': 1}
+[[6]]
+
+
+DERIVATIVE ASSIGNMENTS REMOVED BASED ON P:
+
+{'F': 1, 'S': 1, 'Sp': 1}
+[[0], [(0, 0)], [(0, 0)]]
+
+{'F': 1, 'V': 1, 'Vp': 1}
+[[0], [(0, 0)], [(0, 0)]]
+
+{'F': 1, 'T': 1, 'Sp': 1}
+[[0], [(0, 0)], [(0, 0)]]
+
+{'D': 2, 'S': 1, 'Sp': 1}
+[[(0, 2)], [(0, 0)]]
+[[(1, 1)], [(0, 0)]]
+[[(0, 0)], [(0, 2)]]
+[[(0, 0)], [(1, 1)]]
+[[(0, 1)], [(0, 1)]]
+
+{'D': 2, 'V': 1, 'Vp': 1}
+[[(0, 2)], [(0, 0)]]
+[[(1, 1)], [(0, 0)]]
+[[(0, 0)], [(0, 2)]]
+[[(0, 0)], [(1, 1)]]
+[[(0, 1)], [(0, 1)]]
+
+{'D': 2, 'T': 1, 'Sp': 1}
+[[(0, 2)], [(0, 0)]]
+[[(1, 1)], [(0, 0)]]
+[[(0, 0)], [(0, 2)]]
+[[(0, 0)], [(1, 1)]]
+[[(0, 1)], [(0, 1)]]
+
+{'D': 1, 'F': 2, 'Vp': 1}
+[[1, 0], [(0, 0)]]
+[[0, 0], [(0, 1)]]
+
+{'D': 3, 'F': 1, 'Vp': 1}
+[[3], [(0, 0)]]
+[[0], [(0, 3)]]
+[[0], [(1, 2)]]
+[[2], [(0, 1)]]
+[[1], [(0, 2)]]
+[[1], [(1, 1)]]
+
+{'D': 5, 'Vp': 1}
+[[(0, 5)]]
+[[(1, 4)]]
+[[(2, 3)]]
+
+
+DERIVATIVE ASSIGNMENTS REMOVED BASED ON T:
+
+{'F': 1, 'S': 2}
+[[0], [(0, 0), (0, 0)]]
+
+{'F': 1, 'V': 2}
+[[0], [(0, 0), (0, 0)]]
+
+{'F': 1, 'V': 1, 'Vp': 1}
+[[0], [(0, 0)], [(0, 0)]]
+
+{'F': 1, 'T': 2}
+[[0], [(0, 0), (0, 0)]]
+
+{'F': 1, 'T': 1, 'Sp': 1}
+[[0], [(0, 0)], [(0, 0)]]
+
+{'F': 1, 'Vp': 2}
+[[0], [(0, 0), (0, 0)]]
+
+{'F': 1, 'Sp': 2}
+[[0], [(0, 0), (0, 0)]]
+
+{'D': 2, 'S': 1, 'T': 1}
+[[(0, 2)], [(0, 0)]]
+[[(1, 1)], [(0, 0)]]
+[[(0, 0)], [(0, 2)]]
+[[(0, 0)], [(1, 1)]]
+[[(0, 1)], [(0, 1)]]
+
+{'D': 2, 'S': 1, 'Sp': 1}
+[[(0, 2)], [(0, 0)]]
+[[(1, 1)], [(0, 0)]]
+[[(0, 0)], [(0, 2)]]
+[[(0, 0)], [(1, 1)]]
+[[(0, 1)], [(0, 1)]]
+
+{'D': 1, 'F': 2, 'V': 1}
+[[1, 0], [(0, 0)]]
+
+{'D': 1, 'F': 2, 'Vp': 1}
+[[1, 0], [(0, 0)]]
+
+{'D': 3, 'F': 1, 'V': 1}
+[[0], [(0, 3)]]
+[[0], [(1, 2)]]
+[[2], [(0, 1)]]
+
+{'D': 3, 'F': 1, 'Vp': 1}
+[[0], [(0, 3)]]
+[[0], [(1, 2)]]
+[[2], [(0, 1)]]
+
+{'D': 2, 'F': 3}
+[[2, 0, 0]]
+[[1, 1, 0]]
+
+{'D': 6, 'F': 1}
+[[6]]
+
+
+DERIVATIVE ASSIGNMENTS REMOVED BASED ON IBP:
+
+{'D': 2, 'S': 2}
+[[(0, 2), (0, 0)]]
+
+{'D': 2, 'S': 1, 'T': 1}
+[[(0, 2)], [(0, 0)]]
+[[(0, 0)], [(0, 2)]]
+
+{'D': 2, 'S': 1, 'Sp': 1}
+[[(0, 2)], [(0, 0)]]
+[[(0, 0)], [(0, 2)]]
+
+{'D': 2, 'V': 2}
+[[(0, 2), (0, 0)]]
+
+{'D': 2, 'V': 1, 'Vp': 1}
+[[(0, 2)], [(0, 0)]]
+[[(0, 0)], [(0, 2)]]
+
+{'D': 2, 'T': 2}
+[[(0, 2), (0, 0)]]
+
+{'D': 2, 'T': 1, 'Sp': 1}
+[[(0, 2)], [(0, 0)]]
+[[(0, 0)], [(0, 2)]]
+
+{'D': 2, 'Vp': 2}
+[[(0, 2), (0, 0)]]
+
+{'D': 2, 'Sp': 2}
+[[(0, 2), (0, 0)]]
+
+{'D': 1, 'F': 2, 'V': 1}
+[[1, 0], [(0, 0)]]
+
+{'D': 1, 'F': 2, 'Vp': 1}
+[[1, 0], [(0, 0)]]
+
+{'D': 3, 'F': 1, 'V': 1}
+[[3], [(0, 0)]]
+[[0], [(0, 3)]]
+[[2], [(0, 1)]]
+
+{'D': 3, 'F': 1, 'Vp': 1}
+[[3], [(0, 0)]]
+[[0], [(0, 3)]]
+[[2], [(0, 1)]]
+
+{'D': 2, 'F': 3}
+[[2, 0, 0]]
+
+{'D': 5, 'V': 1}
+[[(0, 5)]]
+[[(1, 4)]]
+
+{'D': 5, 'Vp': 1}
+[[(0, 5)]]
+[[(1, 4)]]
+
+{'D': 4, 'F': 2}
+[[4, 0]]
+[[3, 1]]
+
+{'D': 6, 'F': 1}
+[[6]]
+
+
+FULL LORENTZ INDEX CONTRACTIONS REMOVED BASED ON EOM:
+
+{'D': 2, 'V': 2}
+(((1, 1), (0, 0)),)
+Lorentz index grouping: [['D', 'V', 'D'], ['V']]
+{(2, 3): 1, (0, 1): 1}
+
+{'D': 2, 'V': 2}
+(((1, 1), (0, 0)),)
+Lorentz index grouping: [['D', 'V', 'D'], ['V']]
+{(1, 2): 1, (0, 3): 1}
+
+{'D': 2, 'V': 2}
+(((0, 1), (0, 1)),)
+Lorentz index grouping: [['V', 'D'], ['V', 'D']]
+{(2, 3): 1, (0, 1): 1}
+
+{'D': 2, 'T': 2}
+(((1, 1), (0, 0)),)
+Lorentz index grouping: [['D', 'T', 'D'], ['T']]
+{(3, 3): 1, (1, 2): 1, (0, 1): 1}
+
+{'D': 2, 'T': 2}
+(((1, 1), (0, 0)),)
+Lorentz index grouping: [['D', 'T', 'D'], ['T']]
+{(2, 3): 1, (1, 3): 1, (0, 1): 1}
+
+{'D': 2, 'T': 2}
+(((1, 1), (0, 0)),)
+Lorentz index grouping: [['D', 'T', 'D'], ['T']]
+{(1, 3): 1, (1, 2): 1, (0, 3): 1}
+
+{'D': 2, 'T': 2}
+(((0, 1), (0, 1)),)
+Lorentz index grouping: [['T', 'D'], ['T', 'D']]
+{(2, 3): 1, (1, 2): 1, (0, 0): 1}
+
+{'D': 2, 'T': 2}
+(((0, 1), (0, 1)),)
+Lorentz index grouping: [['T', 'D'], ['T', 'D']]
+{(2, 3): 1, (0, 2): 1, (0, 1): 1}
+
+{'D': 2, 'Vp': 2}
+(((1, 1), (0, 0)),)
+Lorentz index grouping: [['D', 'Vp', 'D'], ['Vp']]
+{(2, 3): 1, (0, 1): 1}
+
+{'D': 2, 'Vp': 2}
+(((1, 1), (0, 0)),)
+Lorentz index grouping: [['D', 'Vp', 'D'], ['Vp']]
+{(1, 2): 1, (0, 3): 1}
+
+{'D': 2, 'Vp': 2}
+(((0, 1), (0, 1)),)
+Lorentz index grouping: [['Vp', 'D'], ['Vp', 'D']]
+{(2, 3): 1, (0, 1): 1}
+
+{'D': 1, 'F': 2, 'V': 1}
+((0, 0), ((0, 1),))
+Lorentz index grouping: [['F'], ['F'], ['V', 'D']]
+{(2, 3): 1, (1, 1): 1, (0, 0): 1}
+
+{'D': 1, 'F': 2, 'V': 1}
+((0, 0), ((0, 1),))
+Lorentz index grouping: [['F'], ['F'], ['V', 'D']]
+{(2, 3): 1, (0, 1): 2}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((0, 2),))
+Lorentz index grouping: [['D', 'F'], ['V', 'DD']]
+{(3, 3): 1, (1, 2): 1, (0, 1): 1}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((0, 2),))
+Lorentz index grouping: [['D', 'F'], ['V', 'DD']]
+{(2, 3): 1, (1, 3): 1, (0, 1): 1}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((0, 2),))
+Lorentz index grouping: [['D', 'F'], ['V', 'DD']]
+{(2, 3): 1, (1, 1): 1, (0, 3): 1}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((1, 1),))
+Lorentz index grouping: [['D', 'F'], ['D', 'V', 'D']]
+{(3, 4): 1, (1, 2): 1, (0, 1): 1}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((1, 1),))
+Lorentz index grouping: [['D', 'F'], ['D', 'V', 'D']]
+{(2, 4): 1, (1, 3): 1, (0, 1): 1}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((1, 1),))
+Lorentz index grouping: [['D', 'F'], ['D', 'V', 'D']]
+{(2, 3): 1, (1, 4): 1, (0, 1): 1}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((1, 1),))
+Lorentz index grouping: [['D', 'F'], ['D', 'V', 'D']]
+{(3, 4): 1, (1, 1): 1, (0, 2): 1}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((1, 1),))
+Lorentz index grouping: [['D', 'F'], ['D', 'V', 'D']]
+{(2, 3): 1, (1, 1): 1, (0, 4): 1}
+
+{'D': 5, 'V': 1}
+(((2, 3),),)
+Lorentz index grouping: [['DD', 'V', 'DDD']]
+{(2, 2): 1, (1, 2): 1, (0, 0): 1}
+
+{'D': 5, 'V': 1}
+(((2, 3),),)
+Lorentz index grouping: [['DD', 'V', 'DDD']]
+{(2, 2): 1, (0, 2): 1, (0, 1): 1}
+
+{'D': 5, 'V': 1}
+(((2, 3),),)
+Lorentz index grouping: [['DD', 'V', 'DDD']]
+{(1, 2): 1, (0, 2): 2}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(2, 3): 2, (1, 1): 1, (0, 0): 1}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(2, 3): 1, (1, 3): 1, (1, 2): 1, (0, 0): 1}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(2, 3): 2, (0, 1): 2}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(3, 3): 1, (1, 2): 1, (0, 2): 1, (0, 1): 1}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(2, 3): 1, (1, 3): 1, (0, 2): 1, (0, 1): 1}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(2, 3): 1, (1, 2): 1, (0, 3): 1, (0, 1): 1}
+
+
+FULL LORENTZ INDEX CONTRACTIONS REMOVED BASED ON DD_comm:
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((0, 2),))
+Lorentz index grouping: [['D', 'F'], ['V', 'DD']]
+{(1, 3): 2, (0, 2): 1}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(2, 3): 2, (1, 1): 1, (0, 0): 1}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(3, 3): 1, (1, 2): 2, (0, 0): 1}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(2, 3): 2, (0, 1): 2}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(1, 2): 2, (0, 3): 2}
+
+
+FULL LORENTZ INDEX CONTRACTIONS REMOVED BASED ON FT_selfcontracted:
+
+{'F': 1, 'S': 1, 'T': 1}
+((0,), ((0, 0),), ((0, 0),))
+Lorentz index grouping: [['F'], ['S'], ['T']]
+{(2, 2): 1, (0, 0): 1}
+
+{'D': 2, 'T': 2}
+(((1, 1), (0, 0)),)
+Lorentz index grouping: [['D', 'T', 'D'], ['T']]
+{(3, 3): 1, (1, 2): 1, (0, 1): 1}
+
+{'D': 2, 'T': 2}
+(((1, 1), (0, 0)),)
+Lorentz index grouping: [['D', 'T', 'D'], ['T']]
+{(3, 3): 1, (1, 1): 1, (0, 2): 1}
+
+{'D': 2, 'T': 2}
+(((1, 1), (0, 0)),)
+Lorentz index grouping: [['D', 'T', 'D'], ['T']]
+{(2, 3): 1, (1, 1): 1, (0, 3): 1}
+
+{'D': 2, 'T': 2}
+(((0, 1), (0, 1)),)
+Lorentz index grouping: [['T', 'D'], ['T', 'D']]
+{(2, 3): 1, (1, 2): 1, (0, 0): 1}
+
+{'D': 2, 'T': 2}
+(((0, 1), (0, 1)),)
+Lorentz index grouping: [['T', 'D'], ['T', 'D']]
+{(2, 2): 1, (1, 3): 1, (0, 0): 1}
+
+{'D': 1, 'F': 2, 'V': 1}
+((0, 0), ((0, 1),))
+Lorentz index grouping: [['F'], ['F'], ['V', 'D']]
+{(2, 3): 1, (1, 1): 1, (0, 0): 1}
+
+{'D': 1, 'F': 2, 'V': 1}
+((0, 0), ((0, 1),))
+Lorentz index grouping: [['F'], ['F'], ['V', 'D']]
+{(1, 3): 1, (1, 2): 1, (0, 0): 1}
+
+{'F': 4}
+((0, 0, 0, 0),)
+Lorentz index grouping: [['F'], ['F'], ['F'], ['F']]
+{(3, 3): 1, (2, 2): 1, (1, 1): 1, (0, 0): 1}
+
+{'F': 4}
+((0, 0, 0, 0),)
+Lorentz index grouping: [['F'], ['F'], ['F'], ['F']]
+{(2, 3): 2, (1, 1): 1, (0, 0): 1}
+
+{'F': 4}
+((0, 0, 0, 0),)
+Lorentz index grouping: [['F'], ['F'], ['F'], ['F']]
+{(2, 3): 1, (1, 3): 1, (1, 2): 1, (0, 0): 1}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((0, 2),))
+Lorentz index grouping: [['D', 'F'], ['V', 'DD']]
+{(3, 3): 1, (1, 1): 1, (0, 2): 1}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((0, 2),))
+Lorentz index grouping: [['D', 'F'], ['V', 'DD']]
+{(2, 3): 1, (1, 1): 1, (0, 3): 1}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((1, 1),))
+Lorentz index grouping: [['D', 'F'], ['D', 'V', 'D']]
+{(3, 4): 1, (1, 1): 1, (0, 2): 1}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((1, 1),))
+Lorentz index grouping: [['D', 'F'], ['D', 'V', 'D']]
+{(2, 4): 1, (1, 1): 1, (0, 3): 1}
+
+{'D': 3, 'F': 1, 'V': 1}
+((1,), ((1, 1),))
+Lorentz index grouping: [['D', 'F'], ['D', 'V', 'D']]
+{(2, 3): 1, (1, 1): 1, (0, 4): 1}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(3, 3): 1, (2, 2): 1, (1, 1): 1, (0, 0): 1}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(2, 3): 2, (1, 1): 1, (0, 0): 1}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(3, 3): 1, (1, 2): 2, (0, 0): 1}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(3, 3): 1, (1, 2): 1, (0, 2): 1, (0, 1): 1}
+
+{'D': 4, 'F': 2}
+((2, 2),)
+Lorentz index grouping: [['DD', 'F'], ['DD', 'F']]
+{(3, 3): 1, (1, 1): 1, (0, 2): 2}
